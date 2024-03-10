@@ -1,0 +1,25 @@
+*{
+    font-size: 1.2em;
+}
+header{ 
+    background-color:wheat; 
+    height: 100px; 
+    } 
+nav{ 
+    background-color:navy; 
+    height: 50px; 
+    width: 100%; 
+    float: left;
+    color: white;
+    } 
+main{ 
+    background-color:gray; 
+    height: 400px; 
+    width: 100%; 
+    float: left; 
+    } 
+footer{ 
+    background-color:lightblue; 
+    height:50px;
+     clear: both; 
+    }
